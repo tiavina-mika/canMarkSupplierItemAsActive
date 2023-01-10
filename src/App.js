@@ -79,7 +79,7 @@ const App = () => {
         </li>
       </ul>
 
-      <h3>See the result in theh console below</h3>
+      <h3>See the result in the console below</h3>
     </div>
   );
 };
